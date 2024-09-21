@@ -5,6 +5,7 @@
 
 - 🔭 I'm a Learner Data Science Student
 - 🌱 I’m currently pursuing **BE in Ai & Ds**
+- 🤖 Devloping Discord Bots
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
